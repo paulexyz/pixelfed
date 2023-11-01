@@ -4269,6 +4269,17 @@ readers do not read off random characters that represent icons */
   src: url("/fonts/fa-regular-400.eot");
   src: url("/fonts/fa-regular-400.eot?#iefix") format("embedded-opentype"), url("/fonts/fa-regular-400.woff2") format("woff2"), url("/fonts/fa-regular-400.woff") format("woff"), url("/fonts/fa-regular-400.ttf") format("truetype"), url("/fonts/fa-regular-400.svg#fontawesome") format("svg"); }
 
+  .fal {
+    font-weight: 300;
+    font-family: 'Font Awesome 5 Free'; }
+  @font-face {
+    font-display: block;
+    font-family: 'Font Awesome 5 Free';
+    font-style: normal;
+    font-weight: 300;
+    src: url("/fonts/fa-light-300.eot");
+    src: url("/fonts/fa-light-300.eot?#iefix") format("embedded-opentype"),url("/fonts/fa-light-300.woff2") format("woff2"),url("/fonts/fa-light-300.woff") format("woff"),url("/fonts/fa-light-300.ttf") format("truetype"),url("/fonts/fa-light-300.svg#fontawesome") format("svg"); }
+
 .far {
   font-family: 'Font Awesome 5 Free';
   font-weight: 400; }
